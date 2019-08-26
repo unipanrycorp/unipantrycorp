@@ -5079,11 +5079,6 @@ footer.bg-dark a {
 .mb16 {
   margin-bottom: 16px;
 }
-@media all and (max-width: 767px) {
-.mb16 {
-  margin-bottom: 16px;
-  margin-top: 0px;
-}
 }
 .mb24 {
   margin-bottom: 24px;
